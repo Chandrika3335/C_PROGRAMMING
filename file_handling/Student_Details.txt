@@ -1,0 +1,3 @@
+Name of the student   Chandrika
+Age   22
+Roll Number  428
